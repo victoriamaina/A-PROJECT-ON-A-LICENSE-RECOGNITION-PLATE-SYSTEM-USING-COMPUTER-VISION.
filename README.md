@@ -42,7 +42,7 @@ Conclusion
 Recommendations.
 
 
-##Known Bugs
+Known Bugs
 No known bugs.
 
 ## Technologies Used
