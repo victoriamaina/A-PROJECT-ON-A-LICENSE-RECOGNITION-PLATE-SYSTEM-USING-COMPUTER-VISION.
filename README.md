@@ -23,9 +23,13 @@ The data used can be found here: https://drive.google.com/drive/folders/1H6w_d87
 
 The project will be undertaken through the following procedure;
 
+Setup/Installation Requirements Use Google Colab or Jupyter Notebook for data preparation and analysis.
+
 Image Annotation
 
-Loading Data
+Import tensorflow libraries for data manipulation
+
+Loading Data and previewing datasets
 
 Base modelling (CNN)
 
@@ -37,13 +41,12 @@ Conclusion
 
 Recommendations.
 
-## 
-Setup/Installation Requirements Use Google Colab or Jupyter Notebook for data preparation and analysis. Import tensorflow libraries for data manipulation. Loading datasets and previewing datasets. Cleaning data; Building the model, Training the model and testing it.
 
-Known Bugs
+##Known Bugs
 No known bugs.
 
-Technologies Used
+## Technologies Used
+
 The analysis was carried out in python using pandas and numpy.
 
 CVAT for annotation
